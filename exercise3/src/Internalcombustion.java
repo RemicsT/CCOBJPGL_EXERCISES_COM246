@@ -1,0 +1,7 @@
+interface  Internalcombustion{
+    
+    void fillgas();
+}
+
+
+
